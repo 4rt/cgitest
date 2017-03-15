@@ -12,9 +12,9 @@ Views are styled using Foundation6 - responsive CSS framework.
 
 # SETTING UP PROJECT `in Visual Studio 2017`:
 
-Download the project:
+Download/Clone the project:
 ```
-https://github.com/4rt/cgitest
+git clone https://github.com/4rt/cgitest
 ```
 
 Go to directory `cgitest`:
@@ -59,9 +59,9 @@ Open in browser  http://localhost:8000/
 https://go.microsoft.com/fwlink/?linkid=843448
 ```
 
-Download the project:
+Download/Clone the project:
 ```
-https://github.com/4rt/cgitest
+git clone https://github.com/4rt/cgitest
 ```
 
 Go to directory `cgitest`:
