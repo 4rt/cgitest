@@ -52,7 +52,7 @@ npm start
 
 Open in browser  http://localhost:8000/
 
-# Launch project without `Visual Studio 2017`:
+# SETTING UP PROJECT via `.net core console`:
 
 1.Download the .NET Core SDK
 ```
