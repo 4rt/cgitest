@@ -6,6 +6,8 @@ Technologies used: ASP NET MVC, AngularJS 1.x (soovitavalt 1.5), Foundation 6 CS
 Make it an SPA (Single Page Application). Data is be fetched from server API in JSON format and
 Design the application incrementally. Start by creting read-only responsive views of movie list and
 
+new angular version: https://github.com/4rt/movieapp
+
 details and data API for read-only access.
 bound to Angular templates.
 Views are styled using Foundation6 - responsive CSS framework.
